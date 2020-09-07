@@ -1,9 +1,8 @@
-def create_an_empty_array (empty)
-  empty = []
-puts []
+def create_an_empty_array
+ []
 end
 
-def create_an_array (colors)
+def create_an_array
 array.colors = [red, yellow, blue, green]
 end
 

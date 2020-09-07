@@ -1,12 +1,12 @@
-def create_an_empty_array
- []
+def create_an_empty_array []
+returns []
 end
 
 def create_an_array = ["red", "yellow", "blue", "green"]
 end
 
-def add_element_to_end_of_array []
-  add_element_to_end_of_array = ["Alie", "Liz", "Sascha")
+def add_element_to_end_of_array = ["Alie", "Liz"]
+  add_element_to_end_of_array
   add_element_to_end_of_array << "Quinn"
 end
 

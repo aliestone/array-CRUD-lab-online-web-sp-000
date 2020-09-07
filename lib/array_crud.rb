@@ -6,9 +6,9 @@ def create_an_array
   create_an_array = ["red", "yellow", "blue", "green"]
 end
 
-def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array << "alie"
-  end
+def add_element_to_end_of_array ("Alie", "Liz", "Sascha")
+  add_element_to_end_of_array << "Quinn"
+end
 
 def add_element_to_start_of_array(array, element)
 

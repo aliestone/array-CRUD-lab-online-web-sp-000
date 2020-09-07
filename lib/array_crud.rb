@@ -2,7 +2,7 @@ def create_an_empty_array (empty)
   []
 end
 
-def create_an_array (colors) = ["red", "yellow", "blue", "green"]
+def create_an_array = ["red", "yellow", "blue", "green"]
   returns colors
 end
 

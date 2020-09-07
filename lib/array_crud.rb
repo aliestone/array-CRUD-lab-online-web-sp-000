@@ -2,14 +2,14 @@ def create_an_empty_array (empty)
   []
 end
 
-def create_an_array (colors)
-  returns ["red", "yellow", "blue", "green"]
+def create_an_array (colors) = ["red", "yellow", "blue", "green"]
+  returns colors
 end
 
 def add_element_to_end_of_array
   ["Alie, Liz"]
 add_element_to_end_of_array << "Quinn"
-end
+
 
 def add_element_to_start_of_array(array, element)
 

@@ -1,4 +1,4 @@
-def empty (empty)
+def create_an_empty_array (empty)
   empty = []
 puts []
 end

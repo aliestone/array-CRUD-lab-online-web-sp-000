@@ -1,5 +1,6 @@
-def create_an_empty_array (empty)
+def empty (empty)
   empty = []
+puts []
 end
 
 def create_an_array (colors)
